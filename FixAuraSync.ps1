@@ -28,7 +28,7 @@
 
 .TAGS
 
-.LICENSEURI https://www.gnu.org/licenses/
+.LICENSEURI https://www.gnu.org/licenses/gpl-3.0.html
 
 .PROJECTURI https://github.com/stephenbonar/FixAuraSync
 
