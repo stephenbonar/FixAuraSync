@@ -14,18 +14,10 @@ Note that the second command is safer, but it may require you to 'Unblock' the s
 
 # Installation
 1. Download the script from the **Releases** page or clone the git repository
-2. If you downloaded the script from Releases, extract the FixAuraSync.ps1 script and copy it where you would like it (for example, to C:\Scripts).
-3. Run PowerShell as administrator
-4. Navigate to the folder you put the script in. For example, if you put it in C:\Scripts, type the following command: cd C:\Scripts
-5. Run the following command: Install-Script FixAuraSync.ps1
+2. If you downloaded the script from Releases, extract the FixAuraSync.ps1 script from the .zip file and copy it where you would like it (for example, to C:\Scripts).
 
 # Running the Script
-If you installed the script using the installation procedure, do the following to run the script:
-
-1. Run PowerShell as Administrator
-2. Type the following command: FixAuraSync
-
-If you downloaded the script but did not install it using the Install-Script command, use the following procedure to run the script:
+Use the following procedure to run the script:
 
 1. Run PowerShell as Administrator
 2. Navigate to the folder you put the script in. For example, if you put it in C:\Scripts, type the following command: cd C:\Scripts
